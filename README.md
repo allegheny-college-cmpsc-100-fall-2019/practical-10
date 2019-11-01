@@ -40,7 +40,7 @@ An individualized version of this assignment is available on our GitHub Classroo
 
 It's election season, and everyone's getting in the spirit. While you may know the Gator Kingdom as a _kingdom_, they modernized the way they run their government many, many years ago. It now functions as a _representative reptocracy_, in which citizens directly elect their leaders. G. Wiz, now flush with his game show cash and full of ideals, hopes, and dreams, is ready to take his place as part of the political class.
 
-However, the election system hasn't quite modernized so fully. In fact, up until this year, many of the Gator Kingdom's precincts still held _paper elections_! This year, intent on making bold claims and keeping his campaign promises, arranged for a digital voting system...which you have to finish.
+However, the election system hasn't quite modernized so fully. In fact, up until this year, many of the Gator Kingdom's precincts still held _paper elections_! Intent on making bold claims and keeping his campaign promises, G. Wiz arranged for a digital voting system...which you have to finish.
 
 Your goal is to finish the ballot creation side of the program, incorporating `Candidate` and `Ballot` objects into your `RunElection` code.
 
