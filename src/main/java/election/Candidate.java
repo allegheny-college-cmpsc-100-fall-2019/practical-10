@@ -2,7 +2,7 @@ package election;
 
 /** Creates a Candidate object.
  *
- * @author Douglas Luman
+ * @author {Your Name Here}
  */
 public class Candidate {
   
